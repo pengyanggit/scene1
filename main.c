@@ -6,7 +6,7 @@
  ************************************************************************/
 
 /*试验场景１－main.c 文件进行修改*/
-
+//the second update
 #include"trace.h"
 struct proto proto_v4={
 	icmpcode_v4,recv_v4,NULL,NULL,NULL,NULL,0,IPPROTO_ICMP,IPPROTO_IP,IP_TTL};

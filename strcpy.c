@@ -4,7 +4,7 @@
 	> Mail: zeng2010203921@163.com 
 	> Created Time: 2016年04月28日 星期四 09时46分24秒
  ************************************************************************/
-
+//The second update
 /*This is program string copy*/
 
 #include<stdio.h>
