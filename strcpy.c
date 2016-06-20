@@ -5,6 +5,8 @@
 	> Created Time: 2016年04月28日 星期四 09时46分24秒
  ************************************************************************/
 
+/*This is program string copy*/
+
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
